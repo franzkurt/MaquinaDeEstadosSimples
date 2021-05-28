@@ -1,8 +1,9 @@
-# projeto stateMachine em python
+# Projeto de Máquina de Estados em python
 
-Test based on pdf 'Teste de conhecimentos em programação Linux'
+Baseado no pdf 'Teste de conhecimentos em programação Linux'
 
-How to run:
+
+### Como rodar:
 
 
 git clone https://github.com/franzkurt/stateMachine.git
