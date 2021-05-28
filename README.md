@@ -4,5 +4,11 @@ Test based on pdf 'Teste de conhecimentos em programação Linux'
 
 How to run:
 
-<code>git clone https://github.com/franzkurt/stateMachine.git</code>
+
+git clone https://github.com/franzkurt/stateMachine.git
+
 cd stateMachine
+
+python3 maquina.py  
+
+![title](log.png)
